@@ -13,14 +13,16 @@ Vybral jsem si tisky 10., 12., 16.
 
 B. Anotace tisků
 ----------------
-1. Usnesení Rady hlavního města Prahy č. 2693 ze dne 7. 10. 2014 schvalující teze Protikorupční strategie hlavního města Prahy na roky 2015-2018. 
+1. 
+Usnesení Rady hlavního města Prahy č. 2693 ze dne 7. 10. 2014 schvalující teze Protikorupční strategie hlavního města Prahy na roky 2015-2018. 
 Za rozpracování tezí je odpovědný radní Mgr. Lukáš Manhart. Strategie se vztahuje na všechny zaměstnance magistrátu a členy Zastupitelstva a Rady města, na příspěvkové organizace vedené magistrátem a další.
 
 Na základě analýzy Protikorupční strategie hlavního města Prahy z let 2011-2014 bylo vytvořeno deset bodů, které bude v následujících letech implementováno. Mezi tyto body patří hlavně vytvoření funkce Etického komisaře nezávislého na magistrátu, posílení vzájemné, interní i externí kontroly, nulová tolerance vůči zjištěnému korupčnímu jednání a možnost anonymního nahlášení takového jednání.
 
 Tento přístup má vést k potlačení korupčního jednání a má navazovat na Protikorupční strategii z let 2011-2014. Nabízené řešení ovšem vyžaduje vytvoření dalších pracovních míst na magistrátu a další zatížení správy úřadu.
 
-2. Usnesení Rady hlavního města Prahy č. 2696 ze dne 7. 10. 2014 o uznání a uzavření smlouvy se společností Deloitte Advisory,  spol. s r. o., Praha 8, Karolinská 654/2, PSČ 186 00, IČ: 27582167 za nabídkovou cenu: 1 948 360 Kč bez DPH (2 357 516 Kč s DPH). Předmětem smlouvy je návrh integrační architektury informačního prostředí hlavního města Prahy. 
+2.
+Usnesení Rady hlavního města Prahy č. 2696 ze dne 7. 10. 2014 o uznání a uzavření smlouvy se společností Deloitte Advisory,  spol. s r. o., Praha 8, Karolinská 654/2, PSČ 186 00, IČ: 27582167 za nabídkovou cenu: 1 948 360 Kč bez DPH (2 357 516 Kč s DPH). Předmětem smlouvy je návrh integrační architektury informačního prostředí hlavního města Prahy. 
 
 Návrh se zabývá vytvořením koncepce propojení informačních systémů hlavního města Prahy. Díky tomu budou moci informační systémy snadněji sdílet data mezi sebou, což umožní rychlejší výstup úřadu a snadnější komunikaci mezi  jednotlivými pobočkami. 
 
@@ -28,7 +30,8 @@ Elektronickou správou, zefektivněním výměny informací a zpřístupněním 
 
 klíčová slova: Praha, informační systém, Deloitte Advisory
 
-3. Usnesení Rady hlavního města Prahy č. 2748 ze dne 7. 10. 2014 o revokaci (odvolání) návrhu k narovnání mezi hlavním městem Prahou a firmou Marbes Consulting se sídlem Brojova 2113/16, Plzeň, PSČ 326 00, IČ: 25212079.
+3.
+Usnesení Rady hlavního města Prahy č. 2748 ze dne 7. 10. 2014 o revokaci (odvolání) návrhu k narovnání mezi hlavním městem Prahou a firmou Marbes Consulting se sídlem Brojova 2113/16, Plzeň, PSČ 326 00, IČ: 25212079.
 
 Původní usnesení č. 2590 ze dne 30. 9. 2014 obsahovalo návrh na narovnání mezi výše zmíněnými subjekty ve výši 14 115 072 Kč s DPH za nesplacení faktur ze strany hlavního města Prahy. 
 
